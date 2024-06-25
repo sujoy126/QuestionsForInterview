@@ -1,0 +1,2492 @@
+[10:28 am, 20/10/2022] KalpanaShetty: Sony Interview Questions
+
+Introduction about yourself
+
+Static and non static difference
+
+Static and non static blocks
+
+Selenium architecture
+
+Write program for missing elements in array
+
+How to handle the window
+
+How you will create new tab 
+
+Do you know API
+ 
+What are the validation you will do in api
+
+Do you know SQL 
+
+Write pgm for static and non static block and tell me the order of execution
+[10:28 am, 20/10/2022] KalpanaShetty: SONY 
+Self introduction
+Project Explanation
+What are you expertise at
+If you want to do cross browser in xml what is your approach
+Write a java to get the frequency of odd and even  numbers in the given matrix
+Write a selenium script to search your name in Google search text get all the suggestion sort it in ascending order and then get the 3rd index.
+Suppose you are working on weekends and no developers are standby you need to complete all the test scripts what's your approach
+Suppose you are have written 100 test scripts and in that 30 test cases get failed so how you will learn all the failed testscripts using particular testng .XML file
+[10:28 am, 20/10/2022] KalpanaShetty: SONY: 
+ Self intro
+Wap to reverse a string "java is wonderful language"
+Can we override static methos
+Can we overload static method
+Is there any difference between this and super keyword and explain where its used
+Difference between implicit wait and explicit wait
+What is fluent wait and when we go for it
+In how many ways exception can be handle
+What review commands have you given for the test scripts
+What review commands have you given for the test cases
+How do you perform keyboard functions and mouse action
+Write an xpath for suggestions in google browser
+List out differences between your two projects
+Difference between functional and exploratory testing
+When you will do exploratory testing
+Which process you followed on your project
+What are the agile ceremonies
+What is sprint review meeting
+[10:28 am, 20/10/2022] KalpanaShetty: Sony
+1-Introduction
+2-Paramerization of write the  test cases
+3-Xpath for find all   suggestion list
+4-selenium 2 Scenarios  based questions
+5-Explain jira where you used in your project
+6-Dropdown senarios....
+7-program:-wrt fetch all the suggestion list and go to 3 rd suggestion and sorted all...
+[10:28 am, 20/10/2022] KalpanaShetty: Sony screening questions
+1) what all exceptions gone through in your project
+2) explain http methods and status codes gone through in your project
+3) program input: str="aababbabaabb" and output: aabbaabbaabbaa using substring method
+4) explain automation life cycle
+5) write a script to store complex request in hashmap 
+6) how do you handle windows?
+7) what are the mandatory and optional fields you wil get from server as response?
+[10:28 am, 20/10/2022] KalpanaShetty: Sony questions
+Self introduction
+How to store test case in jira.
+Which company ur working in
+What's your previous company name and where it's located
+How many projects
+how many years u worked as manual test engineer
+2 Java programs
+I/p aaabbcdddf
+O/p a3b2cd3f
+Program {7,-3,0,2,1,-9}
+Without bubble sorting
+First 3 Max element
+Product of Max 3 element
+Oops concepts on framework
+Multiple inheritance 
+Difference between abstract class and interface
+Can we create object in abstract class and interface
+What is singleton class
+What all the selenium exception u got in your project
+Purpose of using static key
+Why we use static for main method 
+What is stale element exception
+What exception u ll get for implicit wait
+[10:28 am, 20/10/2022] KalpanaShetty: 1)allstate_2022				
+How to get 2022 using API				
+2)1				
+1 2				
+1 2 2003				
+3) WAP for ListImpClass				
+4)What is regular expression in selenium				
+5) diff b/w truncate, delete and update				
+6)hello12bye				
+In that 2 are digit number and 8 are alphabet				
+How to get alphabets				
+7) when we will go action class				
+8) select class				
+				
+1)What is interface				
+2)What is the use of implements keyword				
+3)Explain polymorphism				
+4)If two classes are there those are parent and child class having same variables which variable you print?				
+5)can you create catch block without try?				
+6)can you use multiple catch blocks in try block?				
+7)i have 5 drop-down list I want 2nd one which approach use?				
+8)if click() not perform what is approach?				
+…
+[10:28 am, 20/10/2022] KalpanaShetty: Reverse a string, get window handle and get window handles, roles and responsibilities as automation enginner ,manual test engineer ,return type of get window handles,implicitly wait syntax,									
+Select class methods,									
+Write a query to find the employee name start with G, oops concepts and how do you implemented in your framework,some insurance project based questions
+[10:28 am, 20/10/2022] KalpanaShetty: 2 nd round													
+Brief introduction													
+Which frame work u used and explain													
+Jenkins													
+Sprint duration and activities													
+Scrum meeting													
+During sprint what all activities we do.													
+													
+Brief introduction,scrum team,tools used in automation and manual project ,roles and responsibilities , questions on Jenkins and Jira tool,scrum team size they asked  more questions on what we mentioned in our resume in depth
+[10:28 am, 20/10/2022] KalpanaShetty: All states:
+Diff Regression and retesting 
+Retrospect meeting
+Which framework u r using in  ur framework 
+Agile methodology 
+Product backlog and sprint backlog
+ Wt is exception and types
+Diff between error and exception 
+Diff verification and assertion 
+Code to refresh the page
+Write code throw all the exceptions using try and catch
+How to handle exception using  try catch block and without using try catch block
+Diff error and exception 
+Inheritance 
+File upload
+Locators
+Css and xpath 
+Code to enter into frame and get back to parent window 
+Revere string
+Code to add data to hash map and print the size
+Diff array and list
+Diff complie time error and  run time error
+Can we inherit the data from multiple inheritance
+[10:28 am, 20/10/2022] KalpanaShetty: All state
+
+1)allstate_2022
+How to get 2022 using API
+2)1
+    1 2 
+    1 2 3
+3) WAP for ListImpClass
+4)What is regular expression in selenium
+5) diff b/w truncate, delete and update
+6)hello12bye
+In that 2 are digit number and 8 are alphabet
+How to get alphabets
+7) when we will go action class
+8) select class
+[10:28 am, 20/10/2022] KalpanaShetty: AllState First round ques:
+Introduce about yourself
+Difference between Put and Post
+Polymorphism types and examples.
+ExcelSheet connectivity and code to read data
+Reverse a Num
+TestNg annotations, its order and explain each, and the additional annotations in TestNg
+How to take screenshot for a failed testscript without listener
+Xpath
+Framework used and its components
+== and .equals diff
+String is not mutable y?
+Set vs List
+[10:28 am, 20/10/2022] KalpanaShetty: Skan.ai interview questions
+
+*Introduce urself
+*Diff btw pit and patch
+*401 status code what,why,when
+*Open Amazon website,click on washing machine below, select particular product write a script to validate all features of that washing product
+* Tell the scenarios for the same
+* Write the xpath for 1st check box just right to that selected washing machine product under add a protection plan.
+*Tell me about broken links
+*Palindrome program
+*Screenshot and switch to window snippet
+*Status codes for 200 and 500 series
+*Oops concept in ur framework
+*You have found a defect and raised a report.every QA engineers are able to see the defect but developer says it is not reproduceable so what might the cause and what is ur approach
+*Do u have any question for me
+[10:28 am, 20/10/2022] KalpanaShetty: Appzlogic
+
+Introduce yourself
+Types of Authorization
+Which of those you have used
+Why do we need authorisation
+Explain the status codes(all)
+Why do we get particular 
+What is bearer token
+Difference between bearer token and basic auth
+What is the necessity of bearer token
+When a cookie is asking you for username and password How can u send username and password...
+How do you handle the cookies
+Write a method to take screenshot
+[10:28 am, 20/10/2022] KalpanaShetty: Akamai 2nd round
+Introduce yourself
+Roles and responsibilities
+Project one end to end scenario flow 
+How will start your automation
+SQL Query 
+Jdbc connection
+Framework 
+Property file 
+Dynamic webtable xpath
+Login page scenario
+[10:28 am, 20/10/2022] KalpanaShetty: Akamai 2nd round
+1.Introduction
+2.scenario based questions on database
+3.Questions on xpath(dynamic xpath,/ //,normalize space)
+4.sql query and code to print that result
+5.scenario based questions on validation  
+6.Broken link
+7.How will u fetch last but   second option in the search list
+*More of scenario based questions
+[10:28 am, 20/10/2022] KalpanaShetty: Sony
+
+Program:
+check whether a email id is a Valid email id or not (dynamic e-mail)... Explain your approach how you would test it!
+
+Insert a string to middle of string array
+
+Reverse the words in a string 
+
+Can you alter the same array which you have used initially... (No)
+Why not?
+Do you know GoLang
+Where have you used abstraction in your project
+Why did you use abstraction itself... Couldn't you use something else?
+How many defects you found in each sprint
+Tell me 5 defects you have found in previous project
+What do you think is the biggest challenge in GUI Testing...
+Why do you think it(answer) is the biggest challenge?
+How can you overcome that
+What are static methods... Why do we make them static... Can you use constant instead of static
+Why is main method static
+[10:28 am, 20/10/2022] KalpanaShetty: How can you access another team members modifications to your repository without pushing to master
+
+How does Jenkins work?
+How git and Jenkins are related
+Have you used git in command line 
+
+
+Explain how RestAssured works
+How did you get bearer token in your previous project
+What happens when you load a swagger document to the postman
+What are collection in postman
+
+Disadvantages of api...
+Give me an example of a negative testing which you cannot perform using api
+When did you get a conflict in your previous project 
+Why do we use json
+ How do you handle dynamic response
+Write xpaths for 2 elements in Flipkart
+Do you know Typescript?
+How long will it take for you to learn GoLang and Type Script?
+If given a chance, how soon are you available for joining
+[10:33 am, 20/10/2022] KalpanaShetty: Rakuten 
+
+Total marks :32
+
+Total questions :5
+
+MCQ 4 questions (12 marks )
+Script  1 (20 marks)
+
+Que 1: choose the SQL query to substring three letters in the employee table for employee name (4marks)
+
+Que 2: which webservice is null potent in restfull API
+(2 marks)
+Que 3: which http. Method is non indepotent 
+
+(2marka)
+SQue 4: choose the method for given response code(status code has given in response with request body)(4 marks)
+
+Que 5: Script to add names in database (20 marks)
+
+Input.            Output
+
+John                  no
+John.               Yes
+Michle                no
+[10:33 am, 20/10/2022] KalpanaShetty: https://www.geeksforgeeks.org/establishing-jdbc-connection-in-java/
+[10:33 am, 20/10/2022] KalpanaShetty: Countdown latch in java
+To get max sal from emp table
+Diff bn Boolean and boolean
+Dynamically pass numbers and get odd numbers as o/p
+I/p: some nos
+O/p: list is not oddnumbers
+To find vowels using 2 lines of code
+Private n public difference
+What is rest
+Diff bn put , post, patch
+How to connect backend with db and ex
+Status codes
+Serialisation n deserialization. Explain
+[10:33 am, 20/10/2022] KalpanaShetty: SEDIN interview queations
+
+Self introduction
+1.Reverse string using both  for loop and while loop.
+2. Number of occurance of each char in a given string
+3. Requirement Traceability matrix
+4. Bug life cycle with respect to JIRA
+5.what is abstraction how can you achieve the abstraction in your project
+6. Interfaces used in project. 
+7. How many environments are there in projects. 
+8. Where you have maintained your test data? 
+9.How to fetch the data from excel sheet.
+10. Status code
+11. What is the difference between 200 and 201 status code. 
+12. Write one post request with restpect to your project. 
+13. Where you have used parameters. 
+14.what details and all there when you are reporting document to client.. 
+13. Roles and responsibilities with respect to you…
+[10:33 am, 20/10/2022] KalpanaShetty: public class DataBase {
+
+	
+	public static void main(String[] args) throws SQLException, ClassNotFoundException {
+		boolean flag1;
+		for (;;) {
+			
+			Class.forName("com.mysql.jdbc.Driver");
+			Scanner sc = new Scanner(System.in);
+			System.out.println("Do you want to run onee more time");
+		    flag1=sc.nextBoolean();
+		    if (flag1==true) {
+				System.out.println("Enter the name");
+				Scanner sc1 = new Scanner(System.in);
+		    	String name=sc1.nextLine();
+				if (name.length()>5) {
+					Connection connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/emp", "root", "root");
+					Statement statement = connection.createStatement();
+			        ResultSet result = statement.executeQuery("select * from employees");
+			        Boolean flag=false;…
+[10:33 am, 20/10/2022] KalpanaShetty: https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/user-registration-system-689aed34/
+[10:33 am, 20/10/2022] KalpanaShetty: Amdocs....
+Self intro
+Explain ur framework
+Project explaination
+Maven
+Github
+POM
+Collections full topic...
+String buffer  vs string builder
+Defect life cycle
+Diff btn active bug ,inwork bug and verifying bug
+Synchronisation
+How do u write Test cases 
+File input buffer vs file input builder
+Questions on filehandling
+Explain threads concepts
+Program
+Xpath
+Script on Amazon
+SQL joints
+Different btn truncate and drop
+3rd max sal from emp table
+How do you store the data in  database based upon index?
+[10:33 am, 20/10/2022] KalpanaShetty: Amdocs 1st round 
+
+1.introduce your self
+
+2.number in ascending order
+
+3.xpath
+Navigate to yatra.com click on depart date( identify may 22 date 3 don't hardcode 3)
+
+4.how will you perform mousehover and double click
+
+5.without main method can we execute  java program
+
+6.can we override private method? Why
+
+7.why we can't override static method ?
+
+8.difference between set and list
+
+9.xpath
+Navigate to makemytrip.com click on from( identify Bangalore don't hardcode Bangalore)
+[10:33 am, 20/10/2022] KalpanaShetty: Amdocs 
+Self introduction
+How to take screenshots
+How to read data from Excel sheet
+In SQL Salary more than 5000 ?
+Priority vin selenium
+Difference b/w truncate, delete and update
+Test annotations
+Why XML in selenium
+
+Program
+Https://www.icc-cricket.com
+1) launch the browser
+2) mouse over to rankings
+3) click on player rankings under women category
+
+Difference b/w = and ==
+Diff b/w error and exception
+What is the use of throwable and io exception
+[10:33 am, 20/10/2022] KalpanaShetty: Amdocs
+
+1. How to handle web page pop up
+2. Windows pop up
+3. Consider( diag)......u need to move to E and then to submit
+4. Find xpath for team in icc http://cricket.com website
+5. How to handle drop-down and write the code.
+6. How to handle frames
+7. SQL queries on
+ a. Delete table
+ b. in emp table u've 10 times empname(rincy)...need to fetch nly one data
+
+1)how to switch between frames if frames contain another frame inside
+2) sql query to remove table and also remove particular row 
+3) icc cricket.com website ranking drop-down xpath 
+4)linux command to search particular file 
+5) how do you handle dynamic drop-down
+6) where you used oops principal in framework
+7) write a pom buisness method to login to text field 
+8)where you used dynamic drop down in your framework
+[10:33 am, 20/10/2022] KalpanaShetty: amdocs (11 march @3 to 4 pm)
+1 intro yourself.
+2 framework
+3 diff finally finalize and final
+4 script - youtube search bar(xpath)+ play any one song using eclipse
+5 java progrm 
+     int val[] = {1,5,8,6,7,3};
+		boolean flag =false;
+		for(int i=0;i<val.length;i++)
+		{
+			for(int j=i+1;j<val.length;j++)
+			{
+				if(val[i]+val[j]==15)
+				{
+					flag =true;
+					System.out.println("sum is 15 " +val[i]+" "+val[j]);
+					break;
+				}
+				
+			}
+			
+		}
+6 diff implicit wait and explicit wait
+7 how to handle exception in selenium.
+8 diff collection and collection's
+[10:33 am, 20/10/2022] KalpanaShetty: Xylem. 1st round
+- SQL queries to get data from emp table (max salary with empname )
+-rest assure programme with dynamic validation
+-explain mango db with API simulator.
+-Program on vowels without using loop statement 
+-final finalise finally difference
+- programme on  enum
+-given some snippets and asked to explain eg: long p=math.num();
+Long p=num;
+-Method overriding and  write programme on method overiding and overloading. 
+-Access modifiers explain.
+Write program using final and private keyword and explain.
+- Wat is Rest 
+- given scenario of api and asked to do validation.
+-wat is uri and url . Write end points of your previous project. 
+Explain flow of api testing 
+About api simulator in my project .how do u performed simulation. Performance testing usin…
+[10:33 am, 20/10/2022] KalpanaShetty: Q. Which of these are correct http methods
+
+A. Post, get, put, Head, options 
+B. Get, Update, delete
+C. Post, Edit, Update, Delete
+D. POST, PATCH, UPDATE, DELETE
+[10:33 am, 20/10/2022] KalpanaShetty: Q. Select the right Order of Testing procedure
+
+1. Smoke Testing
+2. Functional testing
+3. End-to-end testing
+4. Regression testing
+[10:33 am, 20/10/2022] KalpanaShetty: Q. who is responsible for handling scrum meeting
+1.project manager
+2.product owner
+3.test lead
+4.scrum master
+[10:33 am, 20/10/2022] KalpanaShetty: Enphase Energy
+
+1. How did you contribute to your framework
+2. Difference between array and arraylist
+3. How do you segregate whether a test case is automatable or not
+4. Do you think framework is all about creating a pom class(discussion type)
+5. How does a local system identify a particular folder belongs to git
+6. One End To End scenerio
+7. How does GitHub work?(Not the workflow of push-pull)
+8. Where have you used collections in your project
+9. Where you used Arraylist and Maps
+[10:33 am, 20/10/2022] KalpanaShetty: Charles Hudson 1st round
+Self intro
+Framework used in your project
+How do you handle git conflicts
+Jenkins knowledge
+Interfaces
+Abstract class , can we create object for abstract class
+TestNG annotations
+Parallel test execution
+Logic to get 3rd enabled product in the products pane 
+How do you handle pop ups in selenium and appium
+JavaScript executor how does it work
+[10:33 am, 20/10/2022] KalpanaShetty: Charles hutson 1st round
+1.Introduction
+2.Project structure
+3.collection vs Arrays
+4.oops concept
+[10:33 am, 20/10/2022] KalpanaShetty: Charles Hudson interview 
+1) Tell me about yourself
+2) Expalin your roles in your project
+3) How will you handle pop ups 
+4) where you stored the test data? How will you fetch that
+5) what is TestNg? 
+6) how you’ll report the failed test cases
+7) how to perform parallel execution and group execution using TestNG suite
+8) If I have different browsers like chrome Firefox and IE. how many machines you need to execute that
+9) If I have different versions of Chrome browsers how many machines you need?
+10) expalin Oops principle. Explain Ploymorphism
+11) expalin the challenges you’ve faced in your project
+12) I’ve  a scenario where it is used for support module here I’ve 3 fields 
+A) field with first name
+B) field with last name
+C) phone number
+I’ve to verify the …
+[10:33 am, 20/10/2022] KalpanaShetty: Xylem
+
+What tool u used for backend testing explain
+Api framework
+How ur connecting to db
+Program to remove duplicates and print count after removing duplicates
+Datasimulation.how u will do.
+Performance testing
+Configuration annotations
+[10:33 am, 20/10/2022] KalpanaShetty: If ur not using testng what is ur approach for db connection
+[10:33 am, 20/10/2022] KalpanaShetty: Xylem by Rupsa Basu
+
+Introduction
+Oops concepts
+Flipkart finding xpath
+For samsung in tv n appliances after mouseover
+Odd number table
+***
+  **
+   *
+     **
+       *
+
+String STR ="java234str789";
+Str=str.replaceAll("[^0-9]", "");
+Printpn(str);
+What is o/p
+
+What is system.setproperyy("webdriver.chrome.driver","path to chronedriver.exe");
+Explain
+
+Access specifiers
+Collections
+String s ="hello"
+Find character occurance using Hashmap
+
+Diff bn css n xpath
+Which is faster n why
+Framework explain
+[10:33 am, 20/10/2022] KalpanaShetty: Difference between implicitly wait and explicitly wait
+[10:33 am, 20/10/2022] KalpanaShetty: ElementNotinteractedexception.when this occur?
+[10:33 am, 20/10/2022] KalpanaShetty: What is fluent wait
+[10:33 am, 20/10/2022] KalpanaShetty: What is Maven, pom.xml
+[10:33 am, 20/10/2022] KalpanaShetty: Static non-static diff
+Assert and softassert diff
+[10:33 am, 20/10/2022] KalpanaShetty: Zopsmart 
+--Brief introduction
+--In Api doucumnet  url is given  ads='code' validate in restassured.
+--OOPS concept.
+differnce between abstration and interface.
+---Create random no method add that in array and then check whether it is negative or positive.
+[10:35 am, 20/10/2022] KalpanaShetty: Icc testranking website
+[10:35 am, 20/10/2022] KalpanaShetty: Olympics. Com
+[10:35 am, 20/10/2022] KalpanaShetty: Lumen
+1)tell me about you self brief
+2)exapalin your project
+3)smoke testing and sanity testing diffrence
+4)load testing and stress testing diff
+5)bug life cycle 
+6)opps concept in Frame work
+7)api post and put diffrence
+8)single ton class
+9)How to invoke the application in webdriver 
+10)how to take the screen shot in webdriver 
+11)how we check if an element is getting is displayed on a web page
+12)write a code snippet to perform right click an element in webdriver 
+13)one sql query 
+14)types of api testing
+15)what is protocol
+16)which protocol your used
+17)exaplain restful websrevice
+18)5 scenario based question
+[10:35 am, 20/10/2022] KalpanaShetty: Credavenu questions
+Introduce yourself
+Explain your framework
+Explain polymorphism
+Explain inheritance wrt framework
+Why pom?
+Handling drop-down
+Practical use of CRUD methods
+Status codes
+Scenario based questions on manual
+
+2nd round
+They asked scenario based questions on API
+They aske 4-5 puzzles
+Guess the next number in series
+Problem on ages
+[10:35 am, 20/10/2022] KalpanaShetty: 1. Self introduction
+2. What is constructed
+3. Inheritance and types
+4. When we use inheritance
+5. Super call statement
+Program for super call statement
+6. wrp to check string is palindrome or not by using itrator
+[10:35 am, 20/10/2022] KalpanaShetty: 7. Why we use extends key?
+[10:35 am, 20/10/2022] KalpanaShetty: RAKUTAN
+
+1.tell me something about yourself?
+2.what is the difference between static and non static method.
+3.how to handle drop down.
+4. Can static method is overloaded.
+5. Can you override static method ?
+6. Int i= 20;
+     PSVM()
+     Int i=30;
+     Sopln(i);
+7. Can you develop framework from scratch?
+Explain it from scratch.
+8.why u use dependency?
+9.what is the features of Testng?
+10. What is POM?
+11.what is the difference between @findby and findelement?
+11. How to handle stale element exception.
+12. What is method overloading and over riding
+13. What is constructor.
+14. Tell me difference between regression and functional testing. Is it a part of functional testing only?
+[10:35 am, 20/10/2022] KalpanaShetty: Rakuten question i faced 
+ Post and put difference
+Idempotent
+Enum
+Constructor 
+Postman snippets 
+Static and non static 
+Y api
+Rest assured classes and method available 
+Return type of windows handle .code how to handle it
+Framework both api n selenium
+Yestng
+[10:35 am, 20/10/2022] KalpanaShetty: Xylem
+1.Introduction
+2.Given code snippet and ask what would be the output
+3.program of fibbanoci series  ..in which you need to print only the numbers which are divisible by 3 and 5
+4.Given an excelsheet and asked to get the data and ..count the get the count of repeated data
+5.Asked to write a utility class where a user enters the  name and get the count of entered username (string)
+And explain how will it work
+[10:35 am, 20/10/2022] KalpanaShetty: Tomorrow assignment:
+Automating Mic test: goto mictest.com-click on (test my mic button)- get notification popup-(handle popup)
+- 3 patterns programs
+[10:35 am, 20/10/2022] KalpanaShetty: Clairvoyant
+
+Explain about ur roles and responsibilities in your previous project
+Explain your frame work
+
+ scenarios based on frames and clicking on random link in the frame 
+
+Java program - adding numbers in alphanumeric string
+
+Collections 
+
+Json path,
+ways to create object,
+how to post the request,
+How to validate
+[10:35 am, 20/10/2022] KalpanaShetty: Happiest minds interview question:
+1)introduction
+2)project explanation
+3)oops concept where u used in  framework
+4)cross browser testing
+5)how execute same script in multiple browsers
+6)what is maven
+7)what is genkins
+8)git hub
+9)how many test cases u written
+10)how to execute failed  test cases
+11)Reverse string
+[10:35 am, 20/10/2022] KalpanaShetty: Happiest Minds Questions 
+1.tell me about yourself
+2.Write the code for getData from ExcelSheet
+3.How to pass parameter in dataprovider
+4.How to write property file
+5.Write a login pom page 
+6.Write api code for post method with BDD
+7.Write api code for post method without BDD
+8. What is your roles and responsibility for Manual testing
+9.Write a scenario of any sites.
+[10:35 am, 20/10/2022] KalpanaShetty: 1. introduce yourself and Roles and responsibilities
+2. tell something about your project
+3. bug life cycle
+4. whatsapp scenario qus -->low priority high severity,high  priority low severity and integration scenario.
+5.sdsc & stsc
+6. diff b/w Adhoc and exploratory testing
+7. diff between alpha and beta testing
+8. what is rtm
+9. what is Regresion testing 
+10. exp Agile
+11. How did you rise bug 
+12. what is api.
+13. http protocol explain
+14. CRUD
+15. status code
+16. Sql commands
+17. challenges faced in api testing and Automation.
+18. joins
+19. exp xpath and type of xpath
+20. types of xpath
+21. exp testng
+22. group execution
+23. java program(2)
+24. oops
+25. type of wait.
+[10:35 am, 20/10/2022] KalpanaShetty: ZopSmart :1st Round
+
+1.introduce your self
+2.what are all the tools you used in ur previous projects
+3.Tell me 5 API names which you used in your previous projects
+4.endpoints for your previous projects
+5 Scenario basis question (for validating the given response by using Restassured)
+6.Explain CRUD operation
+7.Explain HTTP methods
+8.what is the difft b/w Authentication and Authorization
+9.Tell few authentication standards which you are used in your previous projects
+10.write the xpath for autosuggestion in Flipkart ...and (print last-1)
+11.write the program for print the duplicate character in given string 
+12.difft b/w Hashmap and HasTable
+13.difft B/w abstract and Interface
+14.what is function overloading
+15.what is method over riding
+16.can we override t…
+[10:35 am, 20/10/2022] KalpanaShetty: Clairvoyant
+2nd round
+Self Intro.
+Project with framework explanation.
+Daily activities.
+use of this keyword.
+Program to print unique character and count.
+Login scenario.
+If the task is not completed on time and tomorrow is release what is your approach.
+Experienced in manual ?
+[10:35 am, 20/10/2022] KalpanaShetty: Hexaware
+1.Introduce yourself. 
+2.Explain your project. 
+3.Scenario question how will you perform api functional testing. 
+4.api code which you wrote in project. 
+5.how will you validate response. 
+6.status code. 
+7.dynamic xpath. 
+8.how to validate in postman
+[10:35 am, 20/10/2022] KalpanaShetty: Ola Interview Questions:
+
+1. Explain about 503 Status Code. 
+2. Explain about 404 Status Code.
+3. If you encounter 503 status code and if the server is up and running, what is you approach to debug the issue?
+4. Explain your automation framework.
+5. If you perform any CRUD operation in RestAssured and suppose that you get the result in the form of HTML instead of JSON and the status code is 200. What will your approach be to extract the data from the result and validate the same? 
+5. "{"name":"karthik", "company":"OLA"}" convert this string to JSON.
+6. 1 2 3
+    4 5 6
+    7 8 9
+Add the second diagonal numbers and print the sum
+7. Assume that there's a EMP DEPT table. Get me the employee who's having present in more than 2 teams.
+
+Round 2. 
+1. In Jenkins, sup…
+[10:35 am, 20/10/2022] KalpanaShetty: ola questions
+
+introduction
+Given reqres.in link. Perform all CRUD in Eclipse
+Explain ur Framework
+How u r doing manual testing for back-end
+If ur request got failed.Where u will check?
+Upload that project in Google drive
+Explain ur Manual Project
+How u r writing manual test cases.
+U got new requirement.What is ur approach
+jira life cycle
+selenium framework
+if login page got failed. Where u will check logs?
+tomarrow is release, today night u got critical issue.Whats ur approach
+[10:35 am, 20/10/2022] KalpanaShetty: VISA interview questions 
+1.List the type of testing you were involved 
+2.Difference between Integration and System testing 
+3.List the API methods you used in your project 
+4.Tell some of the status codes you got
+5.How to resolve 401,403 status codes 
+6.Where you will write the post() in your script 
+7.How to do request chaining in RestAssured
+8.Difference between authorization and authentication 
+9.Program for fibonacci series 
+10.Difference between static and nonstatic 
+11.Why we should use static variables 
+12.Difference between abstract and interface 
+13.SQL queries on joins, subquery
+12.xpath for dynamic elements 
+13.Explain fluent waits and it's uses 
+14.write scenarios for bulb
+[10:35 am, 20/10/2022] KalpanaShetty: VISA 2nd round questions 
+1.Explain your project
+2.Explain POM
+3.Explain TestNG
+4.If there are 100 @Test methods in a class how will you skip 2 methods
+5.Tell some exceptions you found in your project and explain how you got the exceptions 
+6.Difference between close and quit
+7.After quit() I will use driver.findElement() what will happen 
+8.Where you used collections in your project
+9.Why the getWindowHandles() return type is set only why not list
+10.Tell about hashmap
+11.Can we override static methods
+12.Explain checked and unchecked exception
+13.Why we use finally block
+14.If we write try, finally and catch block in this order do the class gets executed 
+15.Program on occurance of number 
+16.Explain http methods 
+17.Why we get 401 and 403 status codes 
+18…
+[10:35 am, 20/10/2022] KalpanaShetty: Amdocs....
+Self intro
+Explain ur framework
+Project explaination
+Maven
+Github
+POM
+Collections full topic...
+String buffer  vs string builder
+Defect life cycle
+Diff btn active bug ,inwork bug and verifying bug
+Synchronisation
+How do u write Test cases 
+File input buffer vs file input builder
+Questions on filehandling
+Explain threads concepts
+Program
+Xpath
+Script on Amazon
+SQL joints
+Different btn truncate and drop
+3rd max sal from emp table
+How do you store the data in  database based upon index?
+[10:35 am, 20/10/2022] KalpanaShetty: Amdocs 1st round 
+
+1.introduce your self
+
+2.number in ascending order
+
+3.xpath
+Navigate to yatra.com click on depart date( identify may 22 date 3 don't hardcode 3)
+
+4.how will you perform mousehover and double click
+
+5.without main method can we execute  java program
+
+6.can we override private method? Why
+
+7.why we can't override static method ?
+
+8.difference between set and list
+
+9.xpath
+Navigate to makemytrip.com click on from( identify Bangalore don't hardcode Bangalore)
+[10:35 am, 20/10/2022] KalpanaShetty: Amdocs 
+Self introduction
+How to take screenshots
+How to read data from Excel sheet
+In SQL Salary more than 5000 ?
+Priority vin selenium
+Difference b/w truncate, delete and update
+Test annotations
+Why XML in selenium
+
+Program
+Https://www.icc-cricket.com
+1) launch the browser
+2) mouse over to rankings
+3) click on player rankings under women category
+
+Difference b/w = and ==
+Diff b/w error and exception
+What is the use of throwable and io exception
+[10:35 am, 20/10/2022] KalpanaShetty: amdocs (11 march @3 to 4 pm)
+1 intro yourself.
+2 framework
+3 diff finally finalize and final
+4 script - youtube search bar(xpath)+ play any one song using eclipse
+5 java progrm 
+     int val[] = {1,5,8,6,7,3};
+		boolean flag =false;
+		for(int i=0;i<val.length;i++)
+		{
+			for(int j=i+1;j<val.length;j++)
+			{
+				if(val[i]+val[j]==15)
+				{
+					flag =true;
+					System.out.println("sum is 15 " +val[i]+" "+val[j]);
+					break;
+				}
+				
+			}
+			
+		}
+6 diff implicit wait and explicit wait
+7 how to handle exception in selenium.
+8 diff collection and collection's
+[10:35 am, 20/10/2022] KalpanaShetty: Amdocs
+
+1. How to handle web page pop up
+2. Windows pop up
+3. Consider( diag)......u need to move to E and then to submit
+4. Find xpath for team in icc http://cricket.com website
+5. How to handle drop-down and write the code.
+6. How to handle frames
+7. SQL queries on
+ a. Delete table
+ b. in emp table u've 10 times empname(rincy)...need to fetch nly one data
+
+1)how to switch between frames if frames contain another frame inside
+2) sql query to remove table and also remove particular row 
+3) icc cricket.com website ranking drop-down xpath 
+4)linux command to search particular file 
+5) how do you handle dynamic drop-down
+6) where you used oops principal in framework
+7) write a pom buisness method to login to text field 
+8)where you used dynamic drop down in your framework
+[10:35 am, 20/10/2022] KalpanaShetty: Ola first round...
+*Introduce yourself 
+Explain your testing work flow with respect to project . 
+* Status code encountered in your project and if u get 400 series  status code wat is your approach.
+* Programs: i/p {[]}[{()}][()]---o/p: balanced
+I/p: ({)]----o/p: not balanced
+Count Character Occurence : ''Bangalore'' again
+I/p: "Bangalore    City"
+O/p: "city Bangalore "
+Reverse the above o/p.
+* post man Scenario based questions 
+How to post request and validate 
+API frame work .
+[10:35 am, 20/10/2022] KalpanaShetty: How do you rise bug if developer not convinced wats your approach.
+[10:35 am, 20/10/2022] KalpanaShetty: EPS:
+1st Round:
+1)Introduce yourself
+2) Why you are doing Automation testing after Manual testing?
+3) What is the need of going for Automation?
+4)Roles and Responsibilities in your projects?
+5) Explain Access Modifiers?
+6)Why you are declaring elements private in POM class?
+7) Difference between Encapsulation and Abstraction?
+8)Write Xpath for MakeMyTrip  checkbox for flight name indigo?Explain how it is dynamic..
+9) Write Xpath for Departure time for Before 6Am flight?
+
+2nd Round:
+1)Explain Previous Project and your Roles?
+2)How your project is helpful for EndUser?
+3)Challenges you faced in your experience as a test engineer?
+4)How are you flexible to work in different domains?
+5)How your ERP project helps for  client?
+[10:35 am, 20/10/2022] KalpanaShetty: Sedin technologies interview questions
+
+Selenium automation:
+1. How to identify links without href?And print them (write code)
+2. How to get all options from listbox? print the text... How to select particular option from listbox?
+3. If two links have same class id and tag values, how do you uniquely write the xpath 
+Solution: either use group index or getAttribute method
+4. Have you worked with git and Jenkins
+5. Explain handling of windows popup
+6. Which type of frameworks you used?
+7. How to set priorities for test cases?
+8. if two cases have same priority which will execute first?
+9. What is depends on methods?
+10. Explain data provider concept
+11. Have you worked on testng
+
+
+Manual testing:
+1. What is agile process? Explain it based on your project
+2. Explain regression testing
+
+Core Java:
+1. Write a program to find the total sum of number present in odd indices of an integer array( index 1,3,5...)
+
+API testing:
+1. Different between put and patch?
+2. Explain scope of variables.
+3. Have you used any data driven testing in your API
+VISA 2nd round questions 
+1.Explain your project
+2.Explain POM
+3.Explain TestNG
+4.If there are 100 @Test methods in a class how will you skip 2 methods
+5.Tell some exceptions you found in your project and explain how you got the exceptions 
+6.Difference between close and quit
+7.After quit() I will use driver.findElement() what will happen 
+8.Where you used collections in your project
+9.Why the getWindowHandles() return type is set only why not list
+10.Tell about hashmap
+11.Can we override static methods
+12.Explain checked and unchecked exception
+13.Why we use finally block
+14.If we write try, finally and catch block in this order do the class gets executed 
+15.Program on occurance of number 
+16.Explain http methods 
+17.Why we get 401 and 403 status codes 
+18.Tell scenarios for get() 
+19.How will you handle complex responses 
+20.Have you worked on database testing in your previous project 
+21.There is a bug in production, as a manual test ENGINEER what is your approach 
+22.How you push and pull the test scripts from git
+
+Ola Interview Questions:
+
+1. Explain about 503 Status Code. 
+2. Explain about 404 Status Code.
+3. If you encounter 503 status code and if the server is up and running, what is you approach to debug the issue?
+4. Explain your automation framework.
+5. If you perform any CRUD operation in RestAssured and suppose that you get the result in the form of HTML instead of JSON and the status code is 200. What will your approach be to extract the data from the result and validate the same? 
+5. "{"name":"karthik", "company":"OLA"}" convert this string to JSON.
+6. 1 2 3
+    4 5 6
+    7 8 9
+Add the second diagonal numbers and print the sum
+7. Assume that there's a EMP DEPT table. Get me the employee who's having present in more than 2 teams.
+
+Round 2. 
+1. In Jenkins, suppose I want to execute my scripts in 3 different environments(Staging area, pre production & production). Is it possible? And if yes/no why?
+2. Write a program to input a number in such a way that the two numbers should be a prime number
+Ex: Input: 30 Result : 7 + 23
+
+
+
+ZopSmart :1st Round
+
+1.introduce your self
+2.what are all the tools you used in ur previous projects
+3.Tell me 5 API names which you used in your previous projects
+4.endpoints for your previous projects
+5 Scenario basis question (for validating the given response by using Restassured)
+6.Explain CRUD operation
+7.Explain HTTP methods
+8.what is the difft b/w Authentication and Authorization
+9.Tell few authentication standards which you are used in your previous projects
+10.write the xpath for autosuggestion in Flipkart ...and (print last-1)
+11.write the program for print the duplicate character in given string 
+12.difft b/w Hashmap and HasTable
+13.difft B/w abstract and Interface
+14.what is function overloading
+15.what is method over riding
+16.can we override the static mathod ? Tell the reason
+17.difft b/w final ,finally finalize
+18.what is static block
+
+
+
+
+
+
+
+
+Charles Hudson interview 
+1) Tell me about yourself
+2) Expalin your roles in your project
+3) How will you handle pop ups 
+4) where you stored the test data? How will you fetch that
+5) what is TestNg? 
+6) how you’ll report the failed test cases
+7) how to perform parallel execution and group execution using TestNG suite
+8) If I have different browsers like chrome Firefox and IE. how many machines you need to execute that
+9) If I have different versions of Chrome browsers how many machines you need?
+10) expalin Oops principle. Explain Ploymorphism
+11) expalin the challenges you’ve faced in your project
+12) I’ve  a scenario where it is used for support module here I’ve 3 fields 
+A) field with first name
+B) field with last name
+C) phone number
+I’ve to verify the mobile number based on the pin code... whether it is Airtel or Vodafone or from other country and display some message...
+Tell test cases on it
+
+
+
+Xylem. 1st round
+- SQL queries to get data from emp table (max salary with empname )
+-rest assure programme with dynamic validation
+-explain mango db with API simulator.
+-Program on vowels without using loop statement 
+-final finalise finally difference
+- programme on  enum
+-given some snippets and asked to explain eg: long p=math.num();
+Long p=num;
+-Method overriding and  write programme on method overiding and overloading. 
+-Access modifiers explain.
+Write program using final and private keyword and explain.
+- Wat is Rest 
+- given scenario of api and asked to do validation.
+-wat is uri and url . Write end points of your previous project. 
+Explain flow of api testing 
+About api simulator in my project .how do u performed simulation. Performance testing using j meter. 
+Wat is java...what is main method can u execute the program without main method . Explain main method.
+
+
+SEDIN interview queations
+
+Self introduction
+1.Reverse string using both  for loop and while loop.
+2. Number of occurance of each char in a given string
+3. Requirement Traceability matrix
+4. Bug life cycle with respect to JIRA
+5.what is abstraction how can you achieve the abstraction in your project
+6. Interfaces used in project. 
+7. How many environments are there in projects. 
+8. Where you have maintained your test data? 
+9.How to fetch the data from excel sheet.
+10. Status code
+11. What is the difference between 200 and 201 status code. 
+12. Write one post request with restpect to your project. 
+13. Where you have used parameters. 
+14.what details and all there when you are reporting document to client.. 
+13. Roles and responsibilities with respect to your project
+14. In which environment you have executed your test scripts in jenkins. 
+14. How to group your test cases. 
+15. Challenges faced in your project
+
+
+
+1)allstate_2022				
+How to get 2022 using API				
+2)1				
+1 2				
+1 2 2003				
+3) WAP for ListImpClass				
+4)What is regular expression in selenium				
+5) diff b/w truncate, delete and update				
+6)hello12bye				
+In that 2 are digit number and 8 are alphabet				
+How to get alphabets				
+7) when we will go action class				
+8) select class				
+				
+1)What is interface				
+2)What is the use of implements keyword				
+3)Explain polymorphism				
+4)If two classes are there those are parent and child class having same variables which variable you print?				
+5)can you create catch block without try?				
+6)can you use multiple catch blocks in try block?				
+7)i have 5 drop-down list I want 2nd one which approach use?				
+8)if click() not perform what is approach?				
+9) explain locators				
+10)if I have one link if I click 4 tabs open then how will we come to parent tab?				
+11)<tr>				
+<td class=name1> Cruise,Tom/td>				
+</tr>				
+Write xpath by using class and contains function				
+				
+Introduction				
+Explain interface				
+Select clss				
+Xpath				
+Prgm to convert string in vertical form without using inbuilt methods				
+What is locators				
+Which locator is preferred				
+				
+1different between smoke and senity				
+2 agile				
+3 oops concept				
+4 method overload and overriding				
+5 regression				
+6 action class				
+7testng  and annotations				
+8 scenarios base  question				
+9framework				
+10 abstract				
+11 interface
+
+
+
+
+
+
+
+
+
+
+[11:13 am, 02/11/2022] Prakasha Sir Tyss: Amdocs questions :
+
+Tell me about yourself 
+
+
+1) Read the price of iPhone 13 and store it in Excel sheet 
+
+amazon.com
+
+2) find xpath for to get  wickets taken by Sharma
+
+Cricbuzz.com
+
+3) write SQL query to get name and Id of employee whose name start with RAM  and in department IT in employee table 
+
+4) write query to rename the table name
+
+5) can we create the object of abstract class , if yes why? If not why?
+
+6) how to do method chaining in api
+
+7) write java program to segregate numerical values and letters in given string 
+
+8)difference between put and post method
+
+9) status 302 
+
+10) collection in java
+
+11)difference between array and list
+
+12)defect life cycle
+
+13)what is mean by factory
+[11:13 am, 02/11/2022] Prakasha Sir Tyss: Amdocs 1st round 
+
+1.introduce your self
+
+2.number in ascending order
+
+3.xpath
+Navigate to yatra.com click on depart date( identify may 22 date 3 don't hardcode 3)
+
+4.how will you perform mousehover and double click
+
+5.without main method can we execute  java program
+
+6.can we override private method? Why
+
+7.why we can't override static method ?
+
+8.difference between set and list
+
+9.xpath
+Navigate to makemytrip.com click on from( identify Bangalore don't hardcode Bangalore)
+[11:13 am, 02/11/2022] Prakasha Sir Tyss: Amdocs
+
+1. How to handle web page pop up
+2. Windows pop up
+3. Consider( diag)......u need to move to E and then to submit
+4. Find xpath for team in icc http://cricket.com website
+5. How to handle drop-down and write the code.
+6. How to handle frames
+7. SQL queries on
+ a. Delete table
+ b. in emp table u've 10 times empname(rincy)...need to fetch nly one data
+
+1)how to switch between frames if frames contain another frame inside
+2) sql query to remove table and also remove particular row 
+3) icc cricket.com website ranking drop-down xpath 
+4)linux command to search particular file 
+5) how do you handle dynamic drop-down
+6) where you used oops principal in framework
+7) write a pom buisness method to login to text field 
+8)where you used dynamic drop down in your framework
+[11:13 am, 02/11/2022] Prakasha Sir Tyss: Amdocs....
+Self intro
+Explain ur framework
+Project explaination
+Maven
+Github
+POM
+Collections full topic...
+String buffer  vs string builder
+Defect life cycle
+Diff btn active bug ,inwork bug and verifying bug
+Synchronisation
+How do u write Test cases 
+File input buffer vs file input builder
+Questions on filehandling
+Explain threads concepts
+Program
+Xpath
+Script on Amazon
+SQL joints
+Different btn truncate and drop
+3rd max sal from emp table
+How do you store the data in  database based upon index?
+[11:13 am, 02/11/2022] Prakasha Sir Tyss: amdocs (11 march @3 to 4 pm)
+1 intro yourself.
+2 framework
+3 diff finally finalize and final
+4 script - youtube search bar(xpath)+ play any one song using eclipse
+5 java progrm 
+     int val[] = {1,5,8,6,7,3};
+		boolean flag =false;
+		for(int i=0;i<val.length;i++)
+		{
+			for(int j=i+1;j<val.length;j++)
+			{
+				if(val[i]+val[j]==15)
+				{
+					flag =true;
+					System.out.println("sum is 15 " +val[i]+" "+val[j]);
+					break;
+				}
+				
+			}
+			
+		}
+6 diff implicit wait and explicit wait
+7 how to handle exception in selenium.
+8 diff collection and collection's
+[11:13 am, 02/11/2022] Prakasha Sir Tyss: Amdocs 
+Self introduction
+How to take screenshots
+How to read data from Excel sheet
+In SQL Salary more than 5000 ?
+Priority vin selenium
+Difference b/w truncate, delete and update
+Test annotations
+Why XML in selenium
+
+Program
+Https://www.icc-cricket.com
+1) launch the browser
+2) mouse over to rankings
+3) click on player rankings under women category
+
+Difference b/w = and ==
+Diff b/w error and exception
+What is the use of throwable and io exception
+[
+ Charge Bee 2nd round questions
+
+introduction
+git commands
+how to configure build in genkins
+explain your frame work
+how do handle a perticular date in calender 
+questions on JDBC
+technologies u have worked on
+do u have manual experience
+are currently working on any project in testyanta
+test cases for coupon code textbox
+[6:20 pm, 02/11/2022] Prakasha Sir Tyss: Charbee questions 
+1.Introduction
+2.Programming
+S=wwwwprreetrtw
+Output 1:w4p1r2e2t1r1t1w1
+Output2:w5p1r3e2t2 
+3.selenium 
+Finding XPath for 2 elements in Amazon.com
+4.find element and findelements diff
+5.all types of waits 
+6.implict and explicit difference
+7.selenium code to launch the browser and fetch all the links and print them.
+8.configuration annotations 
+Test ng
+9.how to exe parallely in testng 10.jenkins job configuration 
+11.how u do scheduling of jobs.explain
+12.explain git commands
+Branching in detail
+Fork
+Merge request
+13.basic commands of api
+
+1) find the xpath of AMAZON pay offer. "https://www.redbus.in/info/OfferTerms#FIRST".
+2) how to execute jenkins via pom.xml 
+3) program 
+i/p:- aabaaacg
+o/p:- a2b1a3c1g1
+4) why we use dataprovider why can't use forloop and for each, that works same.
+5)functionality testing for linkedin signup.
+6)how many days you take to test linkedin signup page.
+7)which method you using for takescreenshot.
+8)how to execute jenkins parameter via pom.xml
+9)how to link jenkins parameter to your script.
+10)jira based questions.
+11)when your test script is fail with critical bug at the last moment(ex:- 5 days have to deploy) ,then how u achive regression testing. what is your appraoch?
+12)what is return type of dataprovider? why it is two dementional array give reason.
+13)where we use takescreen shot in ur test script.
+
+Amdocs....
+1. self introduction
+2. roles and responsibilities
+3. how many test scripts you can write per day
+4. framework explanation
+5. explain oops concepts
+6. tools you have used in your project
+7. xpath from cricbuzz
+8. String var="amount has paid rs in 10.50"; //output: 10.50
+9. take the phone number from user verify its a 10 digit number or not if it is a 10 digit number print the number.
+10. difference between array list and linked list
+11. explain arraya and drawbacks of array
+12. difference between == and .equals()
+13. explain constructor.
+14. explain method overloading and method overridding.
+15. how to do drag and drop.
+
+.Introduce yourself
+2.Explain TestNG framework
+3.Explain oops concept
+4.Maven Build life cycle
+5.Have you worked on performance testing.
+6.Explian the testNg annotations
+7.Database connection
+8.API request and response structure 
+
+Self into
+2.Framework explanation
+3.About dataprovider
+4.Input : welcome to expleo
+Output : expleo to welcome
+5.Which methods are safer and which methods are not safer in api
+6.Encapsulation
+7.Why we use xpath over css selector
+8.Database connection code
+9.Do you know cucumber
+10.Where u used encapsulation
+
+
+[3:56 pm, 08/11/2022] +91 60018 17717: Expleo 
+1.self intro
+2.jenkins how to create  a job
+3.bdd framework ? 
+4.polmorphism? 
+5.safe methods ? 
+6.remove the duplicates from a string? 
+7.real time example of overriding ? 
+8.where u have used overloading in selenium? 
+9.methods of actions class? 
+10. How to handle scroll actions? 
+11.which method u have used to perform scroll ? 
+12.xpath and CSS selector which one you use? 
+13.if we have 10 windows how to close 7th window? 
+14.pojo class
+15. Serialization 
+16.which library u used for serialization
+17 what authentication you have used
+[3:57 pm, 08/11/2022] +91 60018 17717: 18.difference between navigate and get
+
+[11:00 am, 09/11/2022] Prakasha Sir Tyss: Clairvoyant
+What is default constructor. 
+They ask about SQL
+What is the difference between default and protected
+Difference between Implicitly wait and explicit wait
+Explain pom 
+Whta is stale element exception
+Why use Pagafoctory. Initelement
+What is api 
+What are different http status code and explain
+Difference between put and post
+They ask  pyramid pgm.
+[11:00 am, 09/11/2022] Prakasha Sir Tyss: Clairvoyant
+Intro
+Project 
+Framework
+Oops concept in detail with framework
+Fibonacci series to print last number in 20
+[11:01 am, 09/11/2022] Prakasha Sir Tyss: --------------Clairvoyant--------------
+
+1. Roles & Responsibility
+
+2. Java Program - count the duplicate in given string without using any collection and readymade method
+
+3.implicite wait or explicite wait programe impliment
+4.write google meet chat icon xpath
+5. Java 8 features
+6. Postponed and deffered condition for bug
+7how to enable scrip ?
+8. How to set priority
+9.Boundary value analysis
+10. Given some constructor and     
+Polymorphism programe findout for output
+11.constructor explaination why use 
+12.About your last Project
+13.candle puzzles question
+14.some real time scenario
+[11:01 am, 09/11/2022] Prakasha Sir Tyss: Clairvoyant-Mid   question
+1 introduction
+2.smoke testing
+3.regression testing
+4 system testing
+5.difference b/w sdlc and stlc
+6. Phases of sdlc
+7 write the test case whatsApp mobile application
+8 write a pgm factorial number
+9. Write the test cases android Mobile
+10.what are the mandatory field while creating defect
+11.sanity testing
+12.write the positive and negative sceniro mobile
+13.non functional testing
+14. UAT testing
+15.defect tracking
+16.polymorphism(write the example method override)
+17. Which one super class in java
+18. Method overloading ( write the example)
+20.opp's cocept
+21. Absterction
+22. Abstract class
+23. Interface ( write the example)
+24 . Testng
+25. Cross browsee testing
+26. Testng annotations
+27.jenkins
+28. Maven cmd
+29.project explanation
+30. Difference b/w implicit wait and explicit wait
+31. And more senrio based question
+
+Clairvoyantsoft 1st round 
+
+1. Introduce yourself
+2. Where you used list in your framework
+3. Explain framework
+4. Important things in set and list
+5. What version of selenium u are using and why?
+6. How did you handle test data
+7. How to fetch data from excel
+8. Have you used property file
+9. Script for property file 
+10. Have you used page object model and brief explanation
+11. How to run particular class from your framework
+12. How to run particular method from class
+13. Where you used listener and how did you implemented
+14. Which report is better extent or testNG and What are advantages .
+15. Difference between throw and throws
+16. Annotations and its uses in your framework
+17. Brief description about VCT you have used
+18. How to create Branch in GIT
+19. Reason for conflict and how do you overcome
+20. Explain entire OOPs with  respect to your framework and real time example on all OOPs.
+21. Explain Bug life cycle
+22. What are status in defect
+23. What is differed status
+24. Derrive scenerios on coffee machine
+25. Explain SDLC STLC
+26. difference between sdlc and stlc
+27. Stages of SDLC
+28. What is manual testing
+29. What are the manual testing techniques
+30. Tools you have used for defect tracking
+31. How did project  managed in your company
+32. Swapping the number without using third variable
+33. What is black box testing?
+34. What are testcase design techniques
+35. Explain 500 series status code
+36. Explain 300 and  400 series status codes
+37. How do overcome 400 series
+38. Examples for client side and server side errors
+39. How do you communicate system admin who monitored server
+40. Types of black box testing.
+41. If you are getting 400 series status whom do you communicate and convince front end people or backend people
+
+[1:28 pm, 10/11/2022] Prakasha Sir Tyss: clairvoyant 2nd round
+-----------------------
+
+*tell me what are technology u worked on
+*explain framework
+
+*write programme for
+i/p:today start with java
+o/p:java with start today
+
+*write programme. use hashmap
+
+input  :int a[]={7,2,12,15}   result=9;
+o/p  index I and index J    if we add index I and Index J we have to get 9(USE HASHMAP)
+
+*write program to get multiple data from excel file and login with 3 set of data
+verify whether test case is passed/failed
+1.username1  password1
+2.username2  password2
+3.username3  password3
+
+*diff btn chromeoption and desired capabilty
+
+*scenario
+Q:store=>customise product=>addto cart =>buy=>payment
+=>tell some manual test case for that
+=>how do u write automation script for this
+=>how do you design framework for that
+
+*duration of ur sprint
+*duration of testlife cycle
+
+*can u tell me how u suits for this role and what contribution you will give to your team
+* how u test and verify brokened link
+
+*tell me one bug you found
+*tell me  what are the challenges u faced while automating and what is your next move
+*after completion of one sprint what will you do
+* how will you do compatability testing browserstack 
+*diff btn parametrization and datadriven testing
+* do you have knowledge on mobile testing
+*if you find any difficulties while automating what is your approch
+*how can you setup jobs in jenkins
+[1:28 pm, 10/11/2022] Prakasha Sir Tyss: Clairvoyant
+2nd round
+Self Intro.
+Project with framework explanation.
+Daily activities.
+use of this keyword.
+Program to print unique character and count.
+Login scenario.
+If the task is not completed on time and tomorrow is release what is your approach.
+Experienced in manual ?
+[6:30 pm, 10/11/2022] +91 70225 62525: Clairvoyant
+
+1st Round technical interview questions
+
+* Self Introduction 
+
+1) when you get 2 unplanned builds and you have only 2 days of time, as a test engineer, which testing will you perform ?
+2) while testing a build u will find a bug, but when you communicate the bug with developer, he couldn't find the bug, even though the build and  environments are same, as a test engineer how will you communicate that the build as a bug?
+3) How will you log the defect to developer, what are the things you attached with log report?
+4) write the test case for the given scenario-
+
+Cart feature - user should  be able to add items to the cart.
+5) write a xpath which highlight the 2 products in the shopping section in amazon.in
+6) tell me about git commands?
+7) what do you know about Jenkin?
+8) difference between regression testing and retesting?
+9) what are all the testings you will do in your company?
+10) if there are 2 radio buttons will be there in a webpage, how will you select the first radio button ?
+11) how will you fetch all the drop-down options and print it to the console? 
+12) what do you know about parameters in testNG, how will you configure the parameters in XML file, what is the use of parameters?
+13) which are all the tools you have good hold on api testing? What will you do in that?
+14) They share 2 programs in chatbox, and tell to find the output
+15) how will you prioritize  the defect while logging the defect ?
+16) How will you get the test cases for automation?
+17) how do you print the particular character in the  given string ?
+[7:05 pm, 10/11/2022] +91 70225 62525: 18) what are the suggestions you will give in a retrospective meeting?
+19) which methodology is followed in your company, what are its flavours?
+Amdocs....
+1. self introduction
+2. roles and responsibilities
+3. how many test scripts you can write per day
+4. framework explanation
+5. explain oops concepts
+6. tools you have used in your project
+7. xpath from cricbuzz
+8. String var="amount has paid rs in 10.50"; //output: 10.50
+9. take the phone number from user verify its a 10 digit number or not if it is a 10 digit number print the number.
+10. difference between array list and linked list
+11. explain arraya and drawbacks of array
+12. difference between == and .equals()
+13. explain constructor.
+14. explain method overloading and method overridding.
+15. how to do drag and drop.
+
+[1:33 pm, 11/11/2022] Prakasha Sir Tyss: Amdocs
+1.Introduction 
+2.About the framework 
+3.Oops concepts in your framework
+4.abstract class syntax 
+5.concept of upcasting and downcasting
+6.xpath of icc rankings table
+7.program on string to add spaces between the words
+8.RestAssured post method program
+[3:32 pm, 11/11/2022] +91 95906 93895: Expleo 2nd Round
+1.Self intro
+2.Framework explanation
+3.Exceptions got in your project
+4.Dynamic polymorphism
+5.How to handle exceptions
+6.What is the use of final keyword
+7.What is the use of throws keyword
+8.Authentication
+9.How to capture the data from json
+10.What is pojo class
+11.I what is default constructor
+12.source code management tool used 
+13.U have some code, we don't know which exception it is throwing, how to handle
+14.There are two exceptions like ArrayOutOfBounds and ioException, exactly we don't know which exception we are getting, how to handle
+15.How to select the value from drop-down
+16.Maven commands
+17.Have u worked on Jenkins
+18.write code for using basic auth in rest assured
+19.input : today is friday
+Output : friday is today
+20.what is the use of pom.xml
+21.how to maintain object properties
+22.how to handle dynamic elements in pom class
+23.how can u make a method that can not be override
+: 24.Masking concepts in rest assured
+ 25.Request chaining
+9.Authentication in API
+10.Exception--> checked and unchecked
+11.Locators
+12. How will you find the xpath for dynamic elements
+13. Runtime polymorphism
+
+https://selectorshub.com/xpath-practice-page/
+
+
+
+private static String authenticate() {
+    given()
+        .auth()
+        .form(userName, password,FormAuthConfig.springSecurity().withLoggingEnabled(new LogConfig(captor, true)))
+    when()
+        .post("/home/xyz.html").
+    thenReturn()
+        .getDetailedCookie("JSESSIONID");
+}
+
+
+and then use the cookie in the request:
+
+given()
+    .cookie(authenticate())
+when()
+    .get("/service/customerConfig").
+thenReturn();
+
+
+https://demo.automationtesting.in/Alerts.html
+
+
+
+[10:50 am, 19/10/2022] +91 96114 96160: Skan.ai interview questions
+
+*Introduce urself
+*Diff btw pit and patch
+*401 status code what,why,when
+*Open Amazon website,click on washing machine below, select particular product write a script to validate all features of that washing product
+* Tell the scenarios for the same
+* Write the xpath for 1st check box just right to that selected washing machine product under add a protection plan.
+*Tell me about broken links
+*Palindrome program
+*Screenshot and switch to window snippet
+*Status codes for 200 and 500 series
+*Oops concept in ur framework
+*You have found a defect and raised a report.every QA engineers are able to see the defect but developer says it is not reproduceable so what might the cause and what is ur approach
+*Do u have any question for me
+[3:06 pm, 19/10/2022] +91 88517 37619: Appzlogic
+
+Introduce yourself
+Types of Authorization
+Which of those you have used
+Why do we need authorisation
+Explain the status codes(all)
+Why do we get particular 
+What is bearer token
+Difference between bearer token and basic auth
+What is the necessity of bearer token
+When a cookie is asking you for username and password How can u send username and password...
+How do you handle the cookies
+Write a method to take screenshot
+[5:35 pm, 19/10/2022] Prakasha Sir Tyss: Akamai 2nd round
+Introduce yourself
+Roles and responsibilities
+Project one end to end scenario flow 
+How will start your automation
+SQL Query 
+Jdbc connection
+Framework 
+Property file 
+Dynamic webtable xpath
+Login page scenario
+[5:35 pm, 19/10/2022] Prakasha Sir Tyss: Akamai 2nd round
+1.Introduction
+2.scenario based questions on database
+3.Questions on xpath(dynamic xpath,/ //,normalize space)
+4.sql query and code to print that result
+5.scenario based questions on validation  
+6.Broken link
+7.How will u fetch last but   second option in the search list
+*More of scenario based questions
+[7:54 pm, 19/10/2022] +91 88517 37619: Sony
+
+Program:
+check whether a email id is a Valid email id or not (dynamic e-mail)... Explain your approach how you would test it!
+
+Insert a string to middle of string array
+
+Reverse the words in a string 
+
+Can you alter the same array which you have used initially... (No)
+Why not?
+Do you know GoLang
+Where have you used abstraction in your project
+Why did you use abstraction itself... Couldn't you use something else?
+How many defects you found in each sprint
+Tell me 5 defects you have found in previous project
+What do you think is the biggest challenge in GUI Testing...
+Why do you think it(answer) is the biggest challenge?
+How can you overcome that
+What are static methods... Why do we make them static... Can you use constant instead of static
+Why is main method static
+[7:54 pm, 19/10/2022] +91 88517 37619: How can you access another team members modifications to your repository without pushing to master
+
+How does Jenkins work?
+How git and Jenkins are related
+Have you used git in command line 
+
+
+Explain how RestAssured works
+How did you get bearer token in your previous project
+What happens when you load a swagger document to the postman
+What are collection in postman
+
+Disadvantages of api...
+Give me an example of a negative testing which you cannot perform using api
+When did you get a conflict in your previous project 
+Why do we use json
+ How do you handle dynamic response
+Write xpaths for 2 elements in Flipkart
+Do you know Typescript?
+How long will it take for you to learn GoLang and Type Script?
+If given a chance, how soon are you available for joining
+
+[0:27 pm, 17/10/2022] Prakasha Sir Tyss: Sony Interview Questions
+
+Introduction about yourself
+
+Static and non static difference
+
+Static and non static blocks
+
+Selenium architecture
+
+Write program for missing elements in array
+
+How to handle the window
+
+How you will create new tab 
+
+Do you know API
+ 
+What are the validation you will do in api
+
+Do you know SQL 
+
+Write pgm for static and non static block and tell me the order of execution
+[0:27 pm, 17/10/2022] Prakasha Sir Tyss: SONY 
+Self introduction
+Project Explanation
+What are you expertise at
+If you want to do cross browser in xml what is your approach
+Write a java to get the frequency of odd and even  numbers in the given matrix
+Write a selenium script to search your name in Google search text get all the suggestion sort it in ascending order and then get the 3rd index
+Suppose you are working on weekends and no developers are standby you need to complete all the test scripts what's your approach
+Suppose you are have written 100 test scripts and in that 30 test cases get failed so how you will learn all the failed testscripts using particular testng .XML file
+[0:27 pm, 17/10/2022] Prakasha Sir Tyss: SONY: 
+ Self intro
+Wap to reverse a string "java is wonderful language"
+Can we override static methos
+Can we overload static method
+Is there any difference between this and super keyword and explain where its used
+Difference between implicit wait and explicit wait
+What is fluent wait and when we go for it
+In how many ways exception can be handle
+What review commands have you given for the test scripts
+What review commands have you given for the test cases
+How do you perform keyboard functions and mouse action
+Write an xpath for suggestions in google browser
+List out differences between your two projects
+Difference between functional and exploratory testing
+When you will do exploratory testing
+Which process you followed on your project
+What are the agile ceremonies
+What is sprint review meeting
+[0:27 pm, 17/10/2022] Prakasha Sir Tyss: Sony
+1-Introduction
+2-Paramerization of write the  test cases
+3-Xpath for find all   suggestion list
+4-selenium 2 Scenarios  based questions
+5-Explain jira where you used in your project
+6-Dropdown senarios....
+7-program:-wrt fetch all the suggestion list and go to 3 rd suggestion and sorted all...
+[0:27 pm, 17/10/2022] Prakasha Sir Tyss: Sony screening questions
+1) what all exceptions gone through in your project
+2) explain http methods and status codes gone through in your project
+3) program input: str="aababbabaabb" and output: aabbaabbaabbaa using substring method
+4) explain automation life cycle
+5) write a script to store complex request in hashmap 
+6) how do you handle windows?
+7) what are the mandatory and optional fields you wil get from server as response?
+[0:27 pm, 17/10/2022] Prakasha Sir Tyss: Sony questions
+Self introduction
+How to store test case in jira.
+Which company ur working in
+What's your previous company name and where it's located
+How many projects
+how many years u worked as manual test engineer
+2 Java programs
+I/p aaabbcdddf
+O/p a3b2cd3f
+Program {7,-3,0,2,1,-9}
+Without bubble sorting
+First 3 Max element
+Product of Max 3 element
+Oops concepts on framework
+Multiple inheritance 
+Difference between abstract class and interface
+Can we create object in abstract class and interface
+What is singleton class
+What all the selenium exception u got in your project
+Purpose of using static key
+Why we use static for main method 
+What is stale element exception
+What exception u ll get for implicit wait
+[1:33 pm, 17/10/2022] Prakasha Sir Tyss: 1)allstate_2022				
+How to get 2022 using API				
+2)1				
+1 2				
+1 2 2003				
+3) WAP for ListImpClass				
+4)What is regular expression in selenium				
+5) diff b/w truncate, delete and update				
+6)hello12bye				
+In that 2 are digit number and 8 are alphabet				
+How to get alphabets				
+7) when we will go action class				
+8) select class				
+				
+1)What is interface				
+2)What is the use of implements keyword				
+3)Explain polymorphism				
+4)If two classes are there those are parent and child class having same variables which variable you print?				
+5)can you create catch block without try?				
+6)can you use multiple catch blocks in try block?				
+7)i have 5 drop-down list I want 2nd one which approach use?				
+8)if click() not perform what is approach?				
+…
+[1:33 pm, 17/10/2022] Prakasha Sir Tyss: Reverse a string, get window handle and get window handles, roles and responsibilities as automation enginner ,manual test engineer ,return type of get window handles,implicitly wait syntax,									
+Select class methods,									
+Write a query to find the employee name start with G, oops concepts and how do you implemented in your framework,some insurance project based questions
+[1:34 pm, 17/10/2022] Prakasha Sir Tyss: 2 nd round													
+Brief introduction													
+Which frame work u used and explain													
+Jenkins													
+Sprint duration and activities													
+Scrum meeting													
+During sprint what all activities we do.													
+													
+Brief introduction,scrum team,tools used in automation and manual project ,roles and responsibilities , questions on Jenkins and Jira tool,scrum team size they asked  more questions on what we mentioned in our resume in depth
+[1:34 pm, 17/10/2022] Prakasha Sir Tyss: All states:
+Diff Regression and retesting 
+Retrospect meeting
+Which framework u r using in  ur framework 
+Agile methodology 
+Product backlog and sprint backlog
+ Wt is exception and types
+Diff between error and exception 
+Diff verification and assertion 
+Code to refresh the page
+Write code throw all the exceptions using try and catch
+How to handle exception using  try catch block and without using try catch block
+Diff error and exception 
+Inheritance 
+File upload
+Locators
+Css and xpath 
+Code to enter into frame and get back to parent window 
+Revere string
+Code to add data to hash map and print the size
+Diff array and list
+Diff complie time error and  run time error
+Can we inherit the data from multiple inheritance
+[1:34 pm, 17/10/2022] Prakasha Sir Tyss: All state
+
+1)allstate_2022
+How to get 2022 using API
+2)1
+    1 2 
+    1 2 3
+3) WAP for ListImpClass
+4)What is regular expression in selenium
+5) diff b/w truncate, delete and update
+6)hello12bye
+In that 2 are digit number and 8 are alphabet
+How to get alphabets
+7) when we will go action class
+8) select class
+[1:34 pm, 17/10/2022] Prakasha Sir Tyss: AllState First round ques:
+Introduce about yourself
+Difference between Put and Post
+Polymorphism types and examples.
+ExcelSheet connectivity and code to read data
+Reverse a Num
+TestNg annotations, its order and explain each, and the additional annotations in TestNg
+How to take screenshot for a failed testscript without listener
+Xpath
+Framework used and its components
+== and .equals diff
+String is not mutable y?
+Set vs List
+
+[4:03 pm, 12/10/2022] +91 95355 27781: Xylem by Rupsa Basu
+
+Introduction
+Oops concepts
+Flipkart finding xpath
+For samsung in tv n appliances after mouseover
+Odd number table
+***
+  **
+   *
+     **
+       *
+
+String STR ="java234str789";
+Str=str.replaceAll("[^0-9]", "");
+Printpn(str);
+What is o/p
+
+What is system.setproperyy("webdriver.chrome.driver","path to chronedriver.exe");
+Explain
+
+Access specifiers
+Collections
+String s ="hello"
+Find character occurance using Hashmap
+
+Diff bn css n xpath
+Which is faster n why
+Framework explain
+: Difference between implicitly wait and explicitly wait
+ ElementNotinteractedexception.when this occur?
+ What is fluent wait
+[ What is Maven, pom.xml
+ Static non-static diff
+Assert and softassert diff
+
+[0:27 pm, 11/10/2022] +91 95355 27781: Xylem
+
+What tool u used for backend testing explain
+Api framework
+How ur connecting to db
+Program to remove duplicates and print count after removing duplicates
+Datasimulation.how u will do.
+Performance testing
+Configuration annotations
+[0:39 pm, 11/10/2022] +91 95355 27781: If ur not using testng what is ur approach for db connection
+
+[10:50 am, 19/10/2022] +91 96114 96160: Skan.ai interview questions
+
+*Introduce urself
+*Diff btw pit and patch
+*401 status code what,why,when
+*Open Amazon website,click on washing machine below, select particular product write a script to validate all features of that washing product
+* Tell the scenarios for the same
+* Write the xpath for 1st check box just right to that selected washing machine product under add a protection plan.
+*Tell me about broken links
+*Palindrome program
+*Screenshot and switch to window snippet
+*Status codes for 200 and 500 series
+*Oops concept in ur framework
+*You have found a defect and raised a report.every QA engineers are able to see the defect but developer says it is not reproduceable so what might the cause and what is ur approach
+*Do u have any question for me
+[3:06 pm, 19/10/2022] +91 88517 37619: Appzlogic
+
+Introduce yourself
+Types of Authorization
+Which of those you have used
+Why do we need authorisation
+Explain the status codes(all)
+Why do we get particular 
+What is bearer token
+Difference between bearer token and basic auth
+What is the necessity of bearer token
+When a cookie is asking you for username and password How can u send username and password...
+How do you handle the cookies
+Write a method to take screenshot
+[5:35 pm, 19/10/2022] Prakasha Sir Tyss: Akamai 2nd round
+Introduce yourself
+Roles and responsibilities
+Project one end to end scenario flow 
+How will start your automation
+SQL Query 
+Jdbc connection
+Framework 
+Property file 
+Dynamic webtable xpath
+Login page scenario
+[5:35 pm, 19/10/2022] Prakasha Sir Tyss: Akamai 2nd round
+1.Introduction
+2.scenario based questions on database
+3.Questions on xpath(dynamic xpath,/ //,normalize space)
+4.sql query and code to print that result
+5.scenario based questions on validation  
+6.Broken link
+7.How will u fetch last but   second option in the search list
+*More of scenario based questions
+[7:54 pm, 19/10/2022] +91 88517 37619: Sony
+
+Program:
+check whether a email id is a Valid email id or not (dynamic e-mail)... Explain your approach how you would test it!
+
+Insert a string to middle of string array
+
+Reverse the words in a string 
+
+Can you alter the same array which you have used initially... (No)
+Why not?
+Do you know GoLang
+Where have you used abstraction in your project
+Why did you use abstraction itself... Couldn't you use something else?
+How many defects you found in each sprint
+Tell me 5 defects you have found in previous project
+What do you think is the biggest challenge in GUI Testing...
+Why do you think it(answer) is the biggest challenge?
+How can you overcome that
+What are static methods... Why do we make them static... Can you use constant instead of static
+Why is main method static
+[7:54 pm, 19/10/2022] +91 88517 37619: How can you access another team members modifications to your repository without pushing to master
+
+How does Jenkins work?
+How git and Jenkins are related
+Have you used git in command line 
+
+
+Explain how RestAssured works
+How did you get bearer token in your previous project
+What happens when you load a swagger document to the postman
+What are collection in postman
+
+Disadvantages of api...
+Give me an example of a negative testing which you cannot perform using api
+When did you get a conflict in your previous project 
+Why do we use json
+ How do you handle dynamic response
+Write xpaths for 2 elements in Flipkart
+Do you know Typescript?
+How long will it take for you to learn GoLang and Type Script?
+If given a chance, how soon are you available for joining
+[3:30 pm, 20/10/2022] +91 83107 92757: demo.automation testing.in
+[3:32 pm, 20/10/2022] +91 74065 04526: https://demo.automationtesting.in/Alerts.html
+[3:46 pm, 20/10/2022] +91 88517 37619: Sony second round
+
+Write a code to upload a file
+
+Write a code to click on radio button
+
+Write a code to select June from month drop-down... And store the fetched value into a new file
+
+Write a code to send post request... Using any auth
+
+What tools have you used in previous project
+
+
+Come to GC10 immediately
+[4:41 pm, 31/10/2022] Prakasha Sir Tyss: Infra market 
+Introduction 
+Framework 
+Test case template 
+Stlc,sdlc
+Bug life cycle 
+How to read  the data from  excel  sheet. 
+Testng
+Role nd responsibilities 
+Jira ,severity nd priority 
+Pom
+Webdriver  methods nd working.
+[4:42 pm, 31/10/2022] Prakasha Sir Tyss: What are the tool u use in selenium. 
+Selenium  grid
+How to scroll  up nd scroll  down in selenium 
+Api crud operation
+
+[11:42 am, 02/11/2022] +91 97448 02588: import io.restassured.RestAssured;
+import io.restassured.http.ContentType;
+import io.restassured.http.Cookies;
+
+private Cookie cookie;
+
+@BeforeClass
+public void exampleOfLogin() {
+    String body = String.format("//json");
+    cookies = RestAssured.given()
+            .contentType(ContentType.JSON)
+            .when()
+            .body(body)
+            .post("www.test_test.com")
+            .then()
+            .statusCode(200)
+            .extract()
+            .response()
+            .getDetailedCookies();
+}
+
+@Test
+public void performActionsBasedOnCookies() {
+//set cookies before making a post request and check the returned status code
+    RestAssured.given()
+            .cookies(cookies)
+            .contentType(ContentType.JSON)
+            .when()
+            .post("www.test_url.com")
+            .then()
+            .statusCode(200);
+}
+[11:34 am, 02/11/2022] Prakasha Sir Tyss: Amdocs questions :
+
+Tell me about yourself 
+
+
+1) Read the price of iPhone 13 and store it in Excel sheet 
+
+amazon.com
+
+2) find xpath for to get  wickets taken by Sharma
+
+Cricbuzz.com
+
+3) write SQL query to get name and Id of employee whose name start with RAM  and in department IT in employee table 
+
+4) write query to rename the table name
+
+5) can we create the object of abstract class , if yes why? If not why?
+
+6) how to do method chaining in api
+
+7) write java program to segregate numerical values and letters in given string 
+
+8)difference between put and post method
+
+9) status 302 
+
+10) collection in java
+
+11)difference between array and list
+
+12)defect life cycle
+
+13)what is mean by factory
+R
+[4:30 pm, 02/11/2022] +91 97383 41886: Infra-Market interview questions:
+[4:30 pm, 02/11/2022] +91 97383 41886: 1. Tell me about yourself2. Difference between TDD and BDD3. Difference between static and non static method4. Where have you applied Oops concept  in your project5. Suppose you found critical bug on last day of sprint, what is your approach?6. explain STLC process used in your project7. What is your sprint duration?
+[10:07 am, 03/11/2022] Lakshmi R TY HR: Guy's go and sit in conference room 4th floor in front of glass room
+[10:19 am, 03/11/2022] +91 74065 04526: All of you come 4th floor Conference Room
+[1:40 pm, 03/11/2022] +91 99440 08451: 1.self intro roles and responsibilities
+2. What method you have development in your framework. Can you explain that? 
+3. How you synchronized your framework
+4. Flipkart login page related scenario based question
+5. Amazon add to cart related scenario based question
+6. Real time example for method overloading and method overidding
+7. Difference between static and non static
+7. Difference between hashmap and Arraylist
+8. What is bug triage meeting and who will conduct that meeting
+9. How many test cases you have automated
+10. How to create jobs in jenkins pipeline 
+11. Have you resolved git conflicts
+12. Webdriver methods
+13. Tell me the maven comments for execute only regression test case in jenkins
+14. How you verify whether the issue is front end issue or backend issue. 
+15. Swap 2 numbers without using 3rd variable
+[1:41 pm, 03/11/2022] +91 99440 08451: Infra market interview questions
+[5:53 pm, 03/11/2022] +91 80735 06840: Amdocs
+1.Introduction 
+2.About the framework 
+3.Oops concepts in your framework
+4.abstract class syntax 
+5.concept of upcasting and downcasting
+6.xpath of icc rankings table
+7.program on string to add spaces between the words
+8.RestAssured post method program
+[6:18 pm, 03/11/2022] +91 99440 08451: 1.Self intro
+2.cookies  Popup handle without using selenium webdriver
+3. Selenium components
+4. Have you used Selenium RC ? 
+5. Limitations of selenium webdriver? 
+6. Tell me the scenario to automate OTP? 
+7. Acess modifiers? 
+8. Difference between implicit wait and fluent wait? 
+9. Where you have used fluent wait? 
+10. Method overriding where you have implemented in your project
+[6:19 pm, 03/11/2022] +91 99440 08451: Appzlogic interview question
+[6:20 pm, 03/11/2022] Prakasha Sir Tyss: Introduction 
+Explain Framework 
+Olympic xpath of neeraj chopra and Ind ( Generic)
+Icc test ranking script 
+Collection
+All opp concepts
+About Bdd concepts
+HashMap program to print the value
+How raise defect in jira
+[: Difference between set and map
+: What is list
+ Database connection
+amdocs
+ Amdocs
+Introduction
+Contructor
+This keyword
+Diff b/w findelement and findelements
+Icc xpaths rankings and dynamic xpath for team name and ratings
+Syntax of explicit wait
+Right Click on element
+Assertion
+Select a option in dropdown
+Send a text in text field without sendkeys
+Take screenshot 
+How to get attribute value
+Exception handling and try catch finally
+RestAssured methods
+Hashmap
+Java pgm print string without spaces without built-in functions
+Version control tool used
+How to push a project.
+
+
+Go and meet pradeep sir in workstation in front gc22 at 3pm without fail.
+[1:38 pm, 07/11/2022] Prakasha Sir Tyss: Accion Labs
+Introduction 
+Extent report
+Type of Framework
+
+Agile methodology, Meetings
+
+What will u do avoid git conflict
+About jira
+Pattern program
+Reverse string 
+methods in string
+Components of Frameworks  Explain it
+Diff. Between findelement and findelements
+
+Difference in Baseclass and WebUtily methods 
+whr did u use oops in framework
+Git conflicts, 
+how to configure jenkins with testNG, parameter
+Project sprint duration, 
+Exceptions u got ,how to Handle .
+How Much do u rate ur self in Java, Which area Are you strong in Automation
+[1:39 pm, 07/11/2022] Prakasha Sir Tyss: Accion Labs
+Introduction 
+Extent report
+Diff between html and extent 
+Type of Framework ,why,how we deciede,why,who decides
+
+Agile methodology, Meetings
+
+What will u do avoid git conflicts,How will u avoid if u get one,
+Jira Outlook components ,Explain all,
+
+Matrix program
+Reverse string ,Explanation other methods and what are the methods
+
+Components of Frameworks , Explain structure and Things present in detail
+Diff. Between findelement and findelement s
+
+Difference in Baseclass and WebUtily methods 
+Interface ,where used ,How Inheritance and where used
+
+
+Git conflicts, 
+how to configure jenkins with testNG, how to do perform parameters in Jenkins , when will u execute Jenkins
+Project sprint duration, release, some project related Questions ,If u get Testca…
+[1:39 pm, 07/11/2022] Prakasha Sir Tyss: Accion labs queations for me
+
+Introduction, what are the selenium methods you have used.
+Can we create an object for abstract class, for interface can we create an objct.
+
+Git conflicts, how to configure jenkins with testNG, various testng annotations, difference between @BS and @BC, POM explaination, maven commands, method overloading and overridding, abstract class, interface
+Which chrome version u used??
+Expalin different agile meetings
+Functional testing and BVA
+
+Project sprint duration, release, some difficult project related questions.
+[3:31 pm, 07/11/2022] +91 73534 36996: https://selectorshub.com/xpath-practice-page/
+
+[5:31 pm, 08/11/2022] +91 80735 06840: Expleo questions
+1.expain your framework
+2.which authentication you have used in your project
+3.what is endpoint
+4.idempotent
+5.crud operations
+6.wait statements
+7.How do you do scroll up and scroll down
+8.switch window
+9.encapulation in framework
+10.what is static method
+11.can we overload the static method
+12.remove duplicate words
+[10:57 am, 09/11/2022] Prakasha Sir Tyss: Sony Interview Questions
+
+Introduction about yourself
+
+Static and non static difference
+
+Static and non static blocks
+
+Selenium architecture
+
+Write program for missing elements in array
+
+How to handle the window
+
+How you will create new tab 
+
+Do you know API
+ 
+What are the validation you will do in api
+
+Do you know SQL 
+
+Write pgm for static and non static block and tell me the order of execution
+[10:57 am, 09/11/2022] Prakasha Sir Tyss: SONY 
+Self introduction
+Project Explanation
+What are you expertise at
+If you want to do cross browser in xml what is your approach
+Write a java to get the frequency of odd and even  numbers in the given matrix
+Write a selenium script to search your name in Google search text get all the suggestion sort it in ascending order and then get the 3rd index
+Suppose you are working on weekends and no developers are standby you need to complete all the test scripts what's your approach
+Suppose you are have written 100 test scripts and in that 30 test cases get failed so how you will learn all the failed testscripts using particular testng .XML file
+[10:57 am, 09/11/2022] Prakasha Sir Tyss: SONY: 
+ Self intro
+Wap to reverse a string "java is wonderful language"
+Can we override static methos
+Can we overload static method
+Is there any difference between this and super keyword and explain where its used
+Difference between implicit wait and explicit wait
+What is fluent wait and when we go for it
+In how many ways exception can be handle
+What review commands have you given for the test scripts
+What review commands have you given for the test cases
+How do you perform keyboard functions and mouse action
+Write an xpath for suggestions in google browser
+List out differences between your two projects
+Difference between functional and exploratory testing
+When you will do exploratory testing
+Which process you followed on your project
+What are the agile ceremonies
+What is sprint review meeting
+[10:57 am, 09/11/2022] Prakasha Sir Tyss: Sony
+1-Introduction
+2-Paramerization of write the  test cases
+3-Xpath for find all   suggestion list
+4-selenium 2 Scenarios  based questions
+5-Explain jira where you used in your project
+6-Dropdown senarios....
+7-program:-wrt fetch all the suggestion list and go to 3 rd suggestion and sorted all...
+[10:57 am, 09/11/2022] Prakasha Sir Tyss: Sony screening questions
+1) what all exceptions gone through in your project
+2) explain http methods and status codes gone through in your project
+3) program input: str="aababbabaabb" and output: aabbaabbaabbaa using substring method
+4) explain automation life cycle
+5) write a script to store complex request in hashmap 
+6) how do you handle windows?
+7) what are the mandatory and optional fields you wil get from server as response?
+[10:57 am, 09/11/2022] Prakasha Sir Tyss: Sony questions
+Self introduction
+How to store test case in jira.
+Which company ur working in
+What's your previous company name and where it's located
+How many projects
+how many years u worked as manual test engineer
+2 Java programs
+I/p aaabbcdddf
+O/p a3b2cd3f
+Program {7,-3,0,2,1,-9}
+Without bubble sorting
+First 3 Max element
+Product of Max 3 element
+Oops concepts on framework
+Multiple inheritance 
+Difference between abstract class and interface
+Can we create object in abstract class and interface
+What is singleton class
+What all the selenium exception u got in your project
+Purpose of using static key
+Why we use static for main method 
+What is stale element exception
+What exception u ll get for implicit wait
+[2:44 pm, 11/11/2022] +91 97383 41886: Toyota interview questions
+
+1  Introduce Yourself?
+2  Explain your roles and responsibilities in your current project?
+3  Difference between data driven framework and keyword driven framework?
+4. what are tools used for API testing in your Project?
+5. Have you performed mobile testing for the application in your project?
+6. Have you done API testing for the dynamically changing responses for Web socket based application?
+7. Have you explored on any IOT based applciations?
+8. Explain Types of Framework ?
+9. What Types of testing have done in your selenium/auotmation project?
